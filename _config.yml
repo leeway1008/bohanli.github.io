@@ -1,1 +1,10 @@
 theme: jekyll-theme-hacker
+# Site settings
+title: leeway1008
+SEOTitle: leeway1008 Blog
+email: bohan_lee1999@163.com
+description: ""
+keyword: "leeway1008"
+url: "https://leeway1008.github.io"
+baseurl: ""
+...
