@@ -1,0 +1,8 @@
+[submodule "blogs/themes/jane"]
+	path = blogs/themes/jane
+	url = https://github.com/xianmin/hugo-theme-jane.git
+	branch = master
+[submodule "public"]
+	path = public
+	url = git@github.com:leeway1008/leeway1008.github.io.git
+	branch = master
