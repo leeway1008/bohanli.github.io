@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>design on Jane - A super concise theme for Hugo</title>
+    <link>https://leeway1008.github.io/tags/design/</link>
+    <description>Recent content in design on Jane - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leeway1008.github.io/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All about design</title>
+      <link>https://leeway1008.github.io/post/2021-01-20-design-principle/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://leeway1008.github.io/post/2021-01-20-design-principle/</guid>
+      <description>SOLID design principle Single Responsibility Prinicple A class should only have one reason to change.
+Opened/Closed Principle Software entities(classes, modules, functions, etc) should be open for extension, but closed for modification.
+Liskov Substitution Principle Let Φ(x) be a property provable about objects x of type T. Then Φ(y) should be true for objects y of type S where S is a subtype of T.
+Objects of a superclass shall be replaceble with objects of its subclasses without breaking the applications.</description>
+    </item>
+    
+  </channel>
+</rss>

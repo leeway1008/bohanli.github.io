@@ -6,11 +6,11 @@
     <description>Recent content in Development on Jane - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://leeway1008.github.io/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leeway1008.github.io/categories/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>All about design</title>
       <link>https://leeway1008.github.io/post/2021-01-20-design-principle/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://leeway1008.github.io/post/2021-01-20-design-principle/</guid>
       <description>SOLID design principle Single Responsibility Prinicple A class should only have one reason to change.
@@ -20,9 +20,18 @@ Objects of a superclass shall be replaceble with objects of its subclasses witho
     </item>
     
     <item>
+      <title>Languages</title>
+      <link>https://leeway1008.github.io/post/2021-01-15-language-learning/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://leeway1008.github.io/post/2021-01-15-language-learning/</guid>
+      <description>Python Java C++ Go </description>
+    </item>
+    
+    <item>
       <title>AWS learning</title>
       <link>https://leeway1008.github.io/post/2021-01-14-aws-learning/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://leeway1008.github.io/post/2021-01-14-aws-learning/</guid>
       <description>Powerful tool:  AWS cloudshell: aws s3 help, aws s3 ls(show the bucket in the system) Cloud 9: avoid api key(role based)  </description>
@@ -31,19 +40,10 @@ Objects of a superclass shall be replaceble with objects of its subclasses witho
     <item>
       <title>Differences in MacOS &amp; Linux command</title>
       <link>https://leeway1008.github.io/post/2021-01-10-differences-in-macos-and-linux-commands/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://leeway1008.github.io/post/2021-01-10-differences-in-macos-and-linux-commands/</guid>
       <description>echo  Useful commands  Git related   use history command:  history ! + number of the past command crtl+A: start of a command, crtl+E: end of a command clear all pycache in current directory:  find . -name &#39;__pycache__&#39; -type d -exec rm -rf {} \; clear all .pyc file in current directory:  find . -name &amp;quot;*.pyc&amp;quot; | xargs rm -f Docker related:   inspect container ip address:  docker inspect -f &#39;{{range .</description>
-    </item>
-    
-    <item>
-      <title>Languages</title>
-      <link>https://leeway1008.github.io/post/2021-01-15-language-learning/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://leeway1008.github.io/post/2021-01-15-language-learning/</guid>
-      <description>Python Java C++ Go </description>
     </item>
     
   </channel>

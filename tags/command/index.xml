@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>command on Jane - A super concise theme for Hugo</title>
+    <link>https://leeway1008.github.io/tags/command/</link>
+    <description>Recent content in command on Jane - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leeway1008.github.io/tags/command/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Differences in MacOS &amp; Linux command</title>
+      <link>https://leeway1008.github.io/post/2021-01-10-differences-in-macos-and-linux-commands/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://leeway1008.github.io/post/2021-01-10-differences-in-macos-and-linux-commands/</guid>
+      <description>echo  Useful commands  Git related   use history command:  history ! + number of the past command crtl+A: start of a command, crtl+E: end of a command clear all pycache in current directory:  find . -name &#39;__pycache__&#39; -type d -exec rm -rf {} \; clear all .pyc file in current directory:  find . -name &amp;quot;*.pyc&amp;quot; | xargs rm -f Docker related:   inspect container ip address:  docker inspect -f &#39;{{range .</description>
+    </item>
+    
+  </channel>
+</rss>

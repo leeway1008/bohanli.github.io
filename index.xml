@@ -6,7 +6,7 @@
     <description>Recent content on Jane - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://leeway1008.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -34,7 +34,7 @@
     <item>
       <title>All about design</title>
       <link>https://leeway1008.github.io/post/2021-01-20-design-principle/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://leeway1008.github.io/post/2021-01-20-design-principle/</guid>
       
@@ -77,9 +77,24 @@
     </item>
     
     <item>
+      <title>Languages</title>
+      <link>https://leeway1008.github.io/post/2021-01-15-language-learning/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://leeway1008.github.io/post/2021-01-15-language-learning/</guid>
+      
+        <description>&lt;h1 id=&#34;python&#34;&gt;Python&lt;/h1&gt;
+&lt;h1 id=&#34;java&#34;&gt;Java&lt;/h1&gt;
+&lt;h1 id=&#34;c&#34;&gt;C++&lt;/h1&gt;
+&lt;h1 id=&#34;go&#34;&gt;Go&lt;/h1&gt;
+</description>
+      
+    </item>
+    
+    <item>
       <title>AWS learning</title>
       <link>https://leeway1008.github.io/post/2021-01-14-aws-learning/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://leeway1008.github.io/post/2021-01-14-aws-learning/</guid>
       
@@ -95,7 +110,7 @@
     <item>
       <title>Differences in MacOS &amp; Linux command</title>
       <link>https://leeway1008.github.io/post/2021-01-10-differences-in-macos-and-linux-commands/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://leeway1008.github.io/post/2021-01-10-differences-in-macos-and-linux-commands/</guid>
       
@@ -147,21 +162,6 @@
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;docker-compose up -d
 &lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-      
-    </item>
-    
-    <item>
-      <title>Languages</title>
-      <link>https://leeway1008.github.io/post/2021-01-15-language-learning/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://leeway1008.github.io/post/2021-01-15-language-learning/</guid>
-      
-        <description>&lt;h1 id=&#34;python&#34;&gt;Python&lt;/h1&gt;
-&lt;h1 id=&#34;java&#34;&gt;Java&lt;/h1&gt;
-&lt;h1 id=&#34;c&#34;&gt;C++&lt;/h1&gt;
-&lt;h1 id=&#34;go&#34;&gt;Go&lt;/h1&gt;
 </description>
       
     </item>

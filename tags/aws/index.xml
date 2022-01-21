@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AWS on Jane - A super concise theme for Hugo</title>
+    <link>https://leeway1008.github.io/tags/aws/</link>
+    <description>Recent content in AWS on Jane - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://leeway1008.github.io/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS learning</title>
+      <link>https://leeway1008.github.io/post/2021-01-14-aws-learning/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://leeway1008.github.io/post/2021-01-14-aws-learning/</guid>
+      <description>Powerful tool:  AWS cloudshell: aws s3 help, aws s3 ls(show the bucket in the system) Cloud 9: avoid api key(role based)  </description>
+    </item>
+    
+  </channel>
+</rss>
