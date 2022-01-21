@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jane - A super concise theme for Hugo</title>
+    <link>https://leeway1008.github.io/</link>
+    <description>Recent content on Jane - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://leeway1008.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://leeway1008.github.io/about/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>https://leeway1008.github.io/about/</guid>
+      
+        <description>&lt;p&gt;Hugo is a static site engine written in Go.&lt;/p&gt;
+&lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;Cobra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;Viper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/jWalterWeatherman&#34;&gt;J Walter Weatherman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>All about design</title>
+      <link>https://leeway1008.github.io/post/2021-01-20-design-principle/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://leeway1008.github.io/post/2021-01-20-design-principle/</guid>
+      
+        <description>&lt;h1 id=&#34;solid-design-principle&#34;&gt;SOLID design principle&lt;/h1&gt;
+&lt;h2 id=&#34;single-responsibility-prinicple&#34;&gt;Single Responsibility Prinicple&lt;/h2&gt;
+&lt;p&gt;A class should only have one reason to change.&lt;/p&gt;
+&lt;h2 id=&#34;openedclosed-principle&#34;&gt;Opened/Closed Principle&lt;/h2&gt;
+&lt;p&gt;Software entities(classes, modules, functions, etc) should be open for extension, but closed for modification.&lt;/p&gt;
+&lt;h2 id=&#34;liskov-substitution-principle&#34;&gt;Liskov Substitution Principle&lt;/h2&gt;
+&lt;p&gt;Let Φ(x) be a property provable about objects x of type T. Then Φ(y) should be true for objects y of type S where S is a subtype of T.&lt;/p&gt;
+&lt;p&gt;Objects of a superclass shall be replaceble with objects of its subclasses without breaking the applications.&lt;/p&gt;
+&lt;h2 id=&#34;dependency-inversion&#34;&gt;Dependency inversion&lt;/h2&gt;
+&lt;p&gt;High-level modules should not depend on low-level modules. Both should depend on abstractions.&lt;/p&gt;
+&lt;p&gt;Abstractions should not depend on details. Details should depend on abstractions.&lt;/p&gt;
+&lt;h2 id=&#34;interface-segregation-principle&#34;&gt;Interface Segregation Principle&lt;/h2&gt;
+&lt;p&gt;Clients should not be forced to depend upon interfaces that they do not use.&lt;/p&gt;
+&lt;h1 id=&#34;oop-in-java&#34;&gt;OOP in Java&lt;/h1&gt;
+&lt;p&gt;OOP is the abbreviation of Object-Oriented Programming.&lt;/p&gt;
+&lt;h2 id=&#34;encapsulation&#34;&gt;Encapsulation&lt;/h2&gt;
+&lt;p&gt;Encapsulation is defined as the wrapping up of data under a single unit. It is the mechanism that binds together code and the data it manipulates. Another way to think about encapsulation is, it is a protective shield that prevents the data from being accessed by the code outside this shield.&lt;/p&gt;
+&lt;h2 id=&#34;abstaction&#34;&gt;Abstaction&lt;/h2&gt;
+&lt;p&gt;Abstraction lets programmers create useful and reusable tools. It can be seen as the technique of filtering out the unnecessary details of an object so that there remain only the useful characteristics that define it. Abstraction focuses on the perceived behavior of the entity. It provides an external view of the entity.&lt;/p&gt;
+&lt;h2 id=&#34;inheritance&#34;&gt;Inheritance&lt;/h2&gt;
+&lt;p&gt;Inheritance in Java is a mechanism in which one object acquires all the properties and behaviors of a parent object. When you inherit from an existing class, you can reuse methods and fields of the parent class. Moreover, you can add new methods and fields in your current class also.&lt;/p&gt;
+&lt;h2 id=&#34;polymorphism&#34;&gt;Polymorphism&lt;/h2&gt;
+&lt;p&gt;Polymorphism in Java is a concept by which we can perform a single action in different ways.&lt;/p&gt;
+&lt;h1 id=&#34;others&#34;&gt;Others&lt;/h1&gt;
+&lt;h2 id=&#34;dependency-injection&#34;&gt;Dependency injection&lt;/h2&gt;
+&lt;p&gt;Dependency injection is a technique in which an object receives other objects that it depends on, called dependencies.&lt;/p&gt;
+&lt;h2 id=&#34;reflection-in-java&#34;&gt;Reflection in Java&lt;/h2&gt;
+&lt;p&gt;Reflection is an API which is used to examine or modify the behavior of methods, classes, interfaces at runtime.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The required classes for reflection are provided under java.lang.reflect package.&lt;/li&gt;
+&lt;li&gt;Reflection gives us information about the class to which an object belongs and also the methods of that class which can be executed by using the object.&lt;/li&gt;
+&lt;li&gt;Through reflection we can invoke methods at runtime irrespective of the access specifier used with them.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;generic-in-java&#34;&gt;Generic in Java&lt;/h2&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>AWS learning</title>
+      <link>https://leeway1008.github.io/post/2021-01-14-aws-learning/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://leeway1008.github.io/post/2021-01-14-aws-learning/</guid>
+      
+        <description>&lt;h2 id=&#34;powerful-tool&#34;&gt;Powerful tool:&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;AWS cloudshell: aws s3 help, aws s3 ls(show the bucket in the system)&lt;/li&gt;
+&lt;li&gt;Cloud 9: avoid api key(role based)&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Differences in MacOS &amp; Linux command</title>
+      <link>https://leeway1008.github.io/post/2021-01-10-differences-in-macos-and-linux-commands/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://leeway1008.github.io/post/2021-01-10-differences-in-macos-and-linux-commands/</guid>
+      
+        <description>&lt;ol&gt;
+&lt;li&gt;echo&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;useful-commands&#34;&gt;Useful commands&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Git related&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;use history command:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;history
+! + number of the past command
+&lt;/code&gt;&lt;/pre&gt;&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;crtl+A: start of a command, crtl+E: end of a command&lt;/li&gt;
+&lt;li&gt;clear all &lt;strong&gt;pycache&lt;/strong&gt; in current directory:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;find . -name &#39;__pycache__&#39; -type d -exec rm -rf {} \;
+&lt;/code&gt;&lt;/pre&gt;&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;clear all .pyc file in current directory:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;find . -name &amp;quot;*.pyc&amp;quot;  | xargs rm -f
+&lt;/code&gt;&lt;/pre&gt;&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Docker related:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;inspect container ip address:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;docker inspect -f &#39;{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}&#39; container_name_or_id
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;li&gt;clear all the images and containers in current machine
+&lt;ul&gt;
+&lt;li&gt;Stop the container(s) using the following command:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;docker-compose down
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;li&gt;Delete all containers using the following command:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;docker rm -f $(docker ps -a -q)
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;li&gt;Delete all volumes using the following command:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;docker volume rm $(docker volume ls -q)
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;li&gt;Restart the containers using the following command:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;docker-compose up -d
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Languages</title>
+      <link>https://leeway1008.github.io/post/2021-01-15-language-learning/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://leeway1008.github.io/post/2021-01-15-language-learning/</guid>
+      
+        <description>&lt;h1 id=&#34;python&#34;&gt;Python&lt;/h1&gt;
+&lt;h1 id=&#34;java&#34;&gt;Java&lt;/h1&gt;
+&lt;h1 id=&#34;c&#34;&gt;C++&lt;/h1&gt;
+&lt;h1 id=&#34;go&#34;&gt;Go&lt;/h1&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>

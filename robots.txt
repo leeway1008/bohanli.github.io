@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://leeway1008.github.io/sitemap.xml
