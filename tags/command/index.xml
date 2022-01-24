@@ -13,7 +13,8 @@
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://leeway1008.github.io/post/2021-01-10-differences-in-macos-and-linux-commands/</guid>
-      <description>echo  Useful commands  Git related   use history command:  history ! + number of the past command crtl+A: start of a command, crtl+E: end of a command clear all pycache in current directory:  find . -name &#39;__pycache__&#39; -type d -exec rm -rf {} \; clear all .pyc file in current directory:  find . -name &amp;quot;*.pyc&amp;quot; | xargs rm -f Docker related:   inspect container ip address:  docker inspect -f &#39;{{range .</description>
+      <description>echo  Useful commands  Git related   use history command:  history ! + number of the past command  removed cached folder when submodule Submodule:  git submodule add url_to_repo projectfolder Removed cached folder:
+git rm --cached projectfolder crtl+A: start of a command, crtl+E: end of a command clear all pycache in current directory:  find . -name &#39;__pycache__&#39; -type d -exec rm -rf {} \; clear all .</description>
     </item>
     
   </channel>

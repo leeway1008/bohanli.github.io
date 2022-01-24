@@ -126,6 +126,13 @@
 &lt;/ul&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;history
 ! + number of the past command
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;li&gt;removed cached folder when submodule
+Submodule:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git submodule add url_to_repo projectfolder
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Removed cached folder:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;git rm --cached projectfolder
 &lt;/code&gt;&lt;/pre&gt;&lt;ol start=&#34;2&#34;&gt;
 &lt;li&gt;crtl+A: start of a command, crtl+E: end of a command&lt;/li&gt;
 &lt;li&gt;clear all &lt;strong&gt;pycache&lt;/strong&gt; in current directory:&lt;/li&gt;
@@ -160,6 +167,10 @@
 &lt;li&gt;Restart the containers using the following command:&lt;/li&gt;
 &lt;/ul&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;docker-compose up -d
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;li&gt;Remove all images:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;docker rmi $(docker images -a -q)
 &lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
